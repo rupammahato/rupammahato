@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rupam Mahato</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/03/18/60/62/240_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupammahato&label=Profile%20views&color=0e75b6&style=flat" alt="rupammahato" /> </p>
 
-- 🌱 I’m currently learning **React JS AND Java Script**
+- 🌱 I’m currently learning **BackEnd Development**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rupam.vercel.app/](https://portfolio-rupam.vercel.app/)
 
