@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rupammahato593@gmail.com**
 
-<p align="right"> <img src="https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="image" height="500px" width="auto"/> </p>
+<p align="right"> <img src="https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="image" height="300px" width="auto"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
