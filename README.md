@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **rupammahato593@gmail.com**
 
+<p align="right"> <img src="https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="image" /> </p>p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rupam-mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rupam-mahato" height="30" width="40" /></a>
