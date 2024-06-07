@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [My Portfolio]((https://rupam-portfolio.vercel.app/))
+- 👨‍💻 All of my projects are available at ([My Portfolio](https://rupam-portfolio.vercel.app/))
 
 - 📫 How to reach me **rupammahato593@gmail.com**
 
