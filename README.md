@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rupam Mahato</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupammahato&label=Profile%20views&color=0e75b6&style=flat" alt="rupammahato" /> </p>
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rupam.vercel.app/](https://portfolio-rupam.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio]((https://rupam-portfolio.vercel.app/))
 
 - 📫 How to reach me **rupammahato593@gmail.com**
 
