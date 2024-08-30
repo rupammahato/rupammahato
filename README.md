@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rupam-portfolio.vercel.app/](https://rupam-portfolio.vercel.app/)
 
-- 💬 Ask me about **Full Stack Development, GEN AI**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **rupammahato593@gmail.com**
 
