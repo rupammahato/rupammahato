@@ -12,16 +12,10 @@
 
 Full Stack Developer with expertise across the MERN stack and cloud technologies. Currently pursuing B.Tech in Civil Engineering at IIT Kharagpur. Passionate about building scalable applications and solving real-world problems through code.
 
-- 🔭 I'm currently working on **Megalith 2025 Official Website**
+- 🔭 I'm currently working on **Zyke**
 - 🌱 I'm learning **AWS, Docker, and Vision-Language Models**
 - 👨‍💻 Portfolio: [https://rupam-portfolio.vercel.app/](https://rupam-portfolio.vercel.app/)
 - 📫 Reach me at: **rupammahato593@gmail.com**
-
-## 🏆 Achievements
-
-- 🥉 Finalist at **Action Plan 2024, Abhyuday IIT Bombay** - Social entrepreneurship idea transforming healthcare
-- 🏆 Selected as a top team at **Smart India Hackathon 2023**
-- 🥈 2nd Runner-Up in **Hero CoLabs Design Challenge 5.0**
 
 ## 🛠️ Tech Stack
 
