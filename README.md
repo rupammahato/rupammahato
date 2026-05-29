@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a Backend Engineer specializing in AI Systems and Cloud Architecture. Currently, I am pursuing my Dual Degree (B.Tech in Civil Engineering & M.Tech in Environmental Engineering) at IIT Kharagpur, maintaining a CGPA of 7.8. I am deeply passionate about building scalable, high-throughput applications, orchestrating Large Language Models, and engineering robust cloud infrastructures.
+I am a Backend Engineer specializing in AI Systems and Cloud Architecture. Currently, I am pursuing my Dual Degree (B.Tech in Civil Engineering & M.Tech in Environmental Engineering) at IIT Kharagpur. I am deeply passionate about building scalable, high-throughput applications, orchestrating Large Language Models, and engineering robust cloud infrastructures.
 
 - 🔭 I'm currently working on **scalable RAG pipelines and drafting open-source proposals for the Internet Archive (GSoC 2026)**
 - 🌱 I'm deep-diving into **Knowledge Graphs, LLaMA Parsers, and High-Performance FastAPI Orchestration**
@@ -64,18 +64,6 @@ I am a Backend Engineer specializing in AI Systems and Cloud Architecture. Curre
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
-
-## 🔥 Professional Experience
-
-### 💼 10X Analysts | Backend Engineering Intern
-* Architected RAG APIs using LLaMA parser and knowledge graphs to generate precise, context-aware AI reporting workflows.
-* Engineered scalable PostgreSQL schemas to support complex, high-velocity multi-document data pipelines.
-* Implemented high-performance FastAPI endpoints to orchestrate high-throughput asynchronous document processing tasks.
-
-### 💼 Datsol Solutions | Software Development Intern
-* Developed a Full-Stack Rule Engine with React and Django, and engineered the robust Reflectify 360-degree feedback platform.
-* Optimized AWS EC2 infrastructure using Nginx/Gunicorn to reliably handle over 50K+ daily requests via load balancing.
-* Built a secure RBAC admin dashboard to enforce strict role permissions and significantly improve system data governance.
 
 ## 💻 Key Projects
 
