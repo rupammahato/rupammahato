@@ -14,8 +14,6 @@ I am a Backend Engineer specializing in AI Systems and Cloud Architecture. Curre
 
 - 🔭 I'm currently working on **scalable RAG pipelines and drafting open-source proposals for the Internet Archive (GSoC 2026)**
 - 🌱 I'm deep-diving into **Knowledge Graphs, LLaMA Parsers, and High-Performance FastAPI Orchestration**
-- 🏋️‍♂️ When I'm not coding, you can find me staying disciplined with the **75 Hard Challenge**
-- 👨‍💻 Portfolio: [https://rupam-portfolio.vercel.app/](https://rupam-portfolio.vercel.app/)
 - 📫 Reach me at: **rupammahato593@gmail.com**
 
 ## 🛠️ Tech Stack
