@@ -83,7 +83,7 @@ Dual degree at IIT Kharagpur, writing backend and AI infrastructure. Currently o
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=rupammahato&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupammahato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="top languages" />
+  <img height="165" src="https://github-readme-stats-one-cyan-32.vercel.app/api/top-langs/?username=rupammahato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="top languages" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0E75B6&height=110&section=footer" alt="footer" />
