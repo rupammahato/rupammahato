@@ -1,112 +1,114 @@
-# <div align="center">👨‍💻 Rupam Mahato</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=700&lines=Backend+Engineer;AI+Systems+Architect;Cloud+Infrastructure;IIT+Kharagpur+Dual+Degree" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rupammahato&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
-
-## 🚀 About Me
-
-I am a Backend Engineer specializing in AI Systems and Cloud Architecture. Currently, I am pursuing my Dual Degree (B.Tech in Civil Engineering & M.Tech in Environmental Engineering) at IIT Kharagpur. I am deeply passionate about building scalable, high-throughput applications, orchestrating Large Language Models, and engineering robust cloud infrastructures.
-
-- 🔭 I'm currently working on **scalable RAG pipelines and drafting open-source proposals for the Internet Archive (GSoC 2026)**
-- 🌱 I'm deep-diving into **Knowledge Graphs, LLaMA Parsers, and High-Performance FastAPI Orchestration**
-- 📫 Reach me at: **rupammahato593@gmail.com**
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### AI & Data Engineering
-![RAG Workflows](https://img.shields.io/badge/RAG_Workflows-FF4F8B?style=for-the-badge&logo=openai&logoColor=white)
-![LLaMA Parser](https://img.shields.io/badge/LLaMA_Parser-043C7A?style=for-the-badge&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-38B2AC?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge)
+# Rupam Mahato
 
-### Backend Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Backend+%26+AI+Systems;RAG+pipelines+and+distributed+systems;IIT+Kharagpur+Dual+Degree" alt="Typing SVG" />
 
-### Cloud, Infrastructure & Databases
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-### Frontend & Authentication
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=oauth)
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=rupammahato&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
 
-## 💻 Key Projects
+## About
 
-### 🌐 Zyke – AI Content Automation
-* Built Vision-Language Model pipelines for content automation, reducing manual creation overhead by 70% for end users.
-* Architected a Flask-MongoDB backend with OAuth and Razorpay, processing transactions while maintaining 99.8% uptime.
-* Engineered AWS EC2 infrastructure with load balancers, successfully reducing global API latency by 60% across regions.
+Dual degree student at IIT Kharagpur (B.Tech Civil, M.Tech Environmental Engineering) who spends most of his time writing backend and AI infrastructure. Recent work: multi-tenant RAG corpora, an org-hierarchy access layer, agentic marketing pipelines, and a consistent-hashing load balancer built from scratch.
 
-### 🏛️ Megalith 2025 Website – IIT Kharagpur
-* Built a high-performance Next.js website, increasing annual users by 42.7% YoY while maintaining sub-2s load times.
-* Implemented robust JWT-based authentication, securing 5K+ concurrent users with advanced password hashing standards.
+- Currently: scalable RAG pipelines, and drafting an open-source proposal for the Internet Archive (GSoC 2026)
+- Reading into: knowledge graphs, document parsing, and FastAPI orchestration under load
+- Reach me: rupammahato593@gmail.com
 
-### 💬 Membition Chatbot – NGO Platform
-* Developed a Next.js frontend with a Flask backend, allowing NGOs to manage custom dynamic chatbot logic securely.
-* Integrated Pinecone vector DB with OpenAI APIs, enabling accurate context-aware PDF search with 92% relevance.
+## Experience
 
-## 📊 GitHub Stats
+| | | |
+|---|---|---|
+| **Neosophical Labs** | Full Stack Developer Intern | May 2026 – Jul 2026 |
+| **Datsol Solutions** (client: Posterity Consulting) | Full Stack Developer Intern | Nov 2025 – May 2026 |
+| **10X Analysts** | Backend Engineering Intern | May 2025 – Jul 2025 |
+| **Zyke** | Founding Member | Oct 2024 – Jan 2025 |
+
+Agentic marketing digests and a UK payroll SLA engine at Neosophical. Sole author of the hiring pipeline and org-hierarchy access control on a 360-feedback HR platform at Datsol. Knowledge-base APIs over a pgvector RAG corpus, plus a cross-origin session auth rebuild across 95 endpoints, at 10X.
+
+## Projects
+
+### Consistent Hashing Load Balancer
+
+An HTTP load balancer built on Express with a hash ring written from scratch.
+
+- 32-bit MD5 keyspace with weighted virtual nodes and `O(log R)` binary-search lookup
+- Node failure remaps 19.66% of keys, against roughly 80% for naive modulo hashing
+- Health checker evicts a backend after 3 failed polls and re-adds it on recovery
+- Two coordinator-free instances run behind nginx via Docker Compose
+- Tracked down a proxy regression by benchmarking direct against proxied load: a single keep-alive agent took p99 latency from 2,459ms to 1.6ms and errors from 3.7% to zero
+
+`Node` · `Express` · `Docker Compose` · `nginx` · `Prometheus`
+
+### Zyke — AI content automation
+
+Founding member on a three-person team. An agent read a brand's website, ranked live trends against that voice, and produced finished social posts with editable images.
+
+- Metered per-request AI spend across 7 providers, modelling each pricing scheme so a generation debits a USD balance. Finished cost landed at $0.05 a post
+- The money path end-to-end: Razorpay orders, HMAC webhook verification, replay-safe idempotency, atomic credit increments
+- An async onboarding crawler that learned 4 brand voices from a URL alone, with semaphore-bounded concurrency and Retry-After backoff
+- One live trend produced 3 ideas, 9 posts and 13 images in 4 minutes
+
+Archived. Ran on $50k+ in platform credits and never took cash revenue. Write-up and demo: [zyke.in](https://zyke.in/)
+
+`Flask` · `MongoDB` · `Razorpay` · `FLUX 1.1 Pro` · `o1-mini`
+
+### Megalith 2025 — IIT Kharagpur
+
+The website for Megalith, the civil engineering technical fest at IIT Kharagpur.
+
+- Next.js/TypeScript, 42.7% year-over-year user growth, 5K+ concurrent at peak
+- JWT/bcrypt role-based auth, running `jose` in Edge Middleware where Node crypto is unavailable, on MongoDB/Mongoose
+- Recharts admin dashboard over Mongo aggregations, automating Razorpay orders, pdf-lib certificates and Nodemailer mail
+
+`Next.js` · `TypeScript` · `MongoDB` · `Razorpay`
+
+### Membition — NGO chatbot platform
+
+Client work. Three services that take a nonprofit from a 7-step intake form and one PDF to a live hosted chatbot in a single request.
+
+- Every nonprofit gets its own dedicated Pinecone index
+- PDFs chunked at 2,000 characters with 100 overlap, embedded with `text-embedding-3-large`, upserted in batches of 100
+- The `gpt-4o-mini` prompt is scoped to nonprofit context by 13 rules, refusing off-topic queries with each org's own fallback message
+
+`Next.js` · `Flask` · `Pinecone` · `OpenAI` · `Streamlit`
+
+## Stack
+
+**Languages** Python · C++ · JavaScript · TypeScript · SQL
+
+**Backend** Node · Express · FastAPI · Django · Flask
+
+**Data** PostgreSQL · MongoDB · pgvector · Pinecone · Neo4j
+
+**AI** RAG · LangChain · LangGraph · LlamaIndex · OpenAI API
+
+**Infra** AWS · GCP · Docker · nginx · GitHub Actions
+
+**Frontend** Next.js · React · Redux · Tailwind · D3.js · Recharts
+
+## Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupammahato&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=rupammahato&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rupammahato&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupammahato&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupammahato&theme=react-dark" alt="GitHub Activity Graph" />
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupammahato&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupammahato&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 🔗 Connect with me
-
-<p align="center">
-  <a href="https://twitter.com/rupam593" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rupam593" /></a>
-  <a href="https://linkedin.com/in/rupammahato" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rupammahato" /></a>
-  <a href="https://instagram.com/rupam._mahato" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rupam._mahato" /></a>
-  <a href="https://leetcode.com/rupam_5" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="rupam_5" /></a>
-  <a href="https://stackoverflow.com/users/22391033/rupam-mahato" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="rupam-mahato" /></a>
-</p>
+## Elsewhere
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rupammahato&theme=react-dark)
-  
+
+<a href="https://linkedin.com/in/rupammahato"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://codeforces.com/profile/DarkKnight05"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://leetcode.com/u/DarkKnight_05"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://stackoverflow.com/users/22391033/rupam-mahato"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://twitter.com/rupam593"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+
 </div>
-
----
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/rupammahato">rupammahato</a>
-</p>
